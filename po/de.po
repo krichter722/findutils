@@ -1730,7 +1730,7 @@ msgstr "      --version                Versionsinformation anzeigen und beenden\
 #~ msgstr "Es fehlt ein vorhergehender regulärer Ausdruck."
 
 #~ msgid "%1$s terminated by signal %2$d"
-#~ msgstr "Der Prozeß %1$s wurde durch das Signal %2$d abgebrochen."
+#~ msgstr "Der Prozess %1$s wurde durch das Signal %2$d abgebrochen."
 
 #~ msgid "block size"
 #~ msgstr "Blockgröße"
